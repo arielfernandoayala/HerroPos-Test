@@ -1,0 +1,63 @@
+			body, html{
+				padding:0;
+				margin:0;
+				font-family: "Segoe UI","Segoe UI Web","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,sans-serif;
+			}
+			h2#title{
+				width: 100%;
+				height: 40px;
+				background-color: #085488;
+				color: #FFF;
+				padding-left:5px;
+				font-weight:normal;
+				font-size:30px;
+				padding:5px;
+			}
+			.action{
+				display:block;
+				padding-left:5px;
+				margin-bottom: 10pt;
+			}
+			.action h3{
+				font-size: 2.125rem;
+				display: block;
+				color: #464646;
+				margin-bottom: 12px!important;
+				line-height: 1.1764705882;
+				font-weight: 200;
+				box-sizing: border-box;
+				color: rgb(0, 0, 0);
+				display: block;
+				font-size: 20px;
+				font-weight: 200;
+				height: auto;
+				line-height: 25px;
+				margin-bottom: 12px;
+				margin-left: 0px;
+				margin-right: 0px;
+				margin-top: 0px;
+				outline-color: rgb(0, 0, 0);
+				outline-style: none;
+				outline-width: 0px;
+				text-align: left;
+				width: auto;
+			}
+			.action div.input{
+				display:block;
+			}
+			.action .description{
+				margin-bottom:10px;
+			}
+			.action a.button{
+				background-color:#085488;
+				color:#FFF;
+				padding:5px 10px;
+				text-decoration:none;
+			}
+			
+#uid{
+    display: inline-block;
+    padding: 20px 40px;
+    border: 1px solid #000;
+	margin-top:10px;
+}
